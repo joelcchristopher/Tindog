@@ -186,6 +186,10 @@ p{
   font-size: 2.5rem;
 }
 
+#cta .container-fluid{
+ padding-top: 7px; 
+}
+
 
 /* footer section */
 
