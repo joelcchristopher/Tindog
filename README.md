@@ -1,1 +1,1 @@
-TinDog Starting Files
+Overview page of an app for dogs.
